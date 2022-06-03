@@ -8,8 +8,8 @@ function App() {
     // <Navbar title="TextUtils3" about="About TextUtils"/>
     //<Navbar/>
     <>
-    <Navbar title="TextUtils" about="About"/>
-    <div className="container my-3">
+    {/* <Navbar title="TextUtils" about="About"/>
+    <div className="container my-3"> */}
       <Textform heading="Enter Your Text To Analyse"/>
     </div>
     </>
